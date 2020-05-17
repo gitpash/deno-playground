@@ -1,2 +1,0 @@
-# deno-playground
-Begin app
